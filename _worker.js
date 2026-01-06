@@ -13,7 +13,7 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://cfxr.eu.org/getSub
+https://ghproxy.net/https://gist.githubusercontent.com/xuefei666/ba24b4e7ecda0a57bfbd65604c63774e/raw/base64.txt
 `;
 
 let urls = [];
@@ -827,3 +827,4 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 	}
 
 }
+
